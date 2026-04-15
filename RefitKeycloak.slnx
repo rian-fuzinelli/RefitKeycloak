@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Refit-Keycloak.Api/Refit-Keycloak.Api.csproj" />
+  <Project Path="Refit-Keycloak.Application/Refit-Keycloak.Application.csproj" />
+  <Project Path="Refit-Keycloak.Domain/Refit-Keycloak.Domain.csproj" />
+  <Project Path="Refit-Keycloak.Infrastructure/Refit-Keycloak.Infrastructure.csproj" />
+  <Project Path="Refit-Keycloak.Tests/Refit-Keycloak.Tests.csproj" />
+</Solution>
