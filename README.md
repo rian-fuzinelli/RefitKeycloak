@@ -57,7 +57,7 @@ Note: the API expects the following values in `Refit-Keycloak.Api/appsettings.js
 dotnet restore RefitKeycloak.slnx
 ```
 
-### 4) Build the solution
+### 4) Build the sln
 
 ```bash
 dotnet build RefitKeycloak.slnx
