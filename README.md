@@ -1,3 +1,4 @@
+
 # Refit + Keycloak with .NET 10
 
 A .NET 10 API with layered architecture, JWT authentication via Keycloak, and external HTTP integration via Refit.
