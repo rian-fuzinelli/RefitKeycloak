@@ -6,7 +6,7 @@ namespace RefitKeycloak.Tests;
 
 public class PostServiceTests
 {
-    [Fact]
+    [Fact
     public async Task Should_Return_Posts()
     {
         var mockApi = new Mock<IExternalApi>();
