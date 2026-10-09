@@ -1,4 +1,3 @@
-
 # Refit + Keycloak with .NET 10
 
 A .NET 10 API with layered architecture, JWT authentication via Keycloak, and external HTTP integration via Refit.
@@ -113,3 +112,4 @@ dotnet test RefitKeycloak.slnx
 - Port already in use: stop the previous process running on port `5201`
 - `401` on `/secure`: validate `Authority`, `Audience`, `client_id`, and token
 - Swagger not opening: ensure the API is running and access `http://localhost:5201/`
+
