@@ -16,7 +16,7 @@ public class PostServiceTests
             .ReturnsAsync(
                 new List<PostDto>
                 {
-                    new PostDto { Id = 1, Title = "Test Refit" }
+                    new PostDto { Id = 1, Title = "Tests" }
                 });
 
         var service = new PostService(mockApi.Object);
